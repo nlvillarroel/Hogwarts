@@ -9,6 +9,7 @@
     <Compile Remove="Migrations\20210713013347_InitialMigration.Designer.cs" />
     <Compile Remove="Migrations\20210713025536_FinalMigration.cs" />
     <Compile Remove="Migrations\20210713025536_FinalMigration.Designer.cs" />
+    <Compile Remove="StudentData\MockStudentData.cs" />
   </ItemGroup>
 
   <ItemGroup>
